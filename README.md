@@ -1,7 +1,7 @@
-# Hello! My name is Liz Tremblay! :3
+# Professional Biography
 
 ## About Me
-I'm a 5th year studing Computer Science minoring in Business Analytics. I'm originally from Chicago, IL and am the President of CEAS Ambassadors! My interests are in UI/UX, HCI, data engineering, front-end development, and project management!
+Hello, my name is Liz Tremblay. I'm a 5th year studing Computer Science minoring in Business Analytics. I'm originally from Chicago, IL and am the President of CEAS Ambassadors! My interests are in UI/UX, HCI, data engineering, front-end development, and project management!
 
 ## Co-op Experience
 ### Software Engineering Co-op @ 84.51
