@@ -36,6 +36,6 @@ Technical Skills: CSS Animation, React.js, Figma, Gatsby, MySQL
 I'm looking to work on a **mobile app project** to get experience with **Swift or other mobile dev technologies**. I'd love to work on a project that can be applied to the real world today that works to solve a problem we're currently facing. I want experience working with the back-end so I can work towards becoming a fullstack developer and would love to work on the UI designs.
 
 ## Contact Info
-Email: tremblea@mail.uc.edu
-Phone: 815-931-3795
+Email: tremblea@mail.uc.edu<br />
+Phone: 815-931-3795<br />
 Portfolio: [liz-tremblay.site](https://www.liz-tremblay.site)
