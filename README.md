@@ -32,6 +32,9 @@ in Cincinnati, OH from Jan 2022 - Present
 - Fixes Carbon for IBM products component bugs with React and Javascript observed on open source repository
 Technical Skills: CSS Animation, React.js, Figma, Gatsby, MySQL
 
+## Capstone
+I'm looking to work on a mobile app project to get experience with Swift or other mobile dev technologies. I'd love to work on a project that can be applied to the real world today that works to solve a problem we're currently facing.
+
 ## Contact Info
 Email: tremblea@mail.uc.edu
 Phone: 815-931-3795
